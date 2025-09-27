@@ -1,15 +1,14 @@
 title: GST Blue Saffron
 subtitle: Powered by Jani Plastics
 author: Anup Jani
-description: A compilation of my research work based on books, workshops attended, interviews taken with my resources in Australia as well as India & my own practical experience of implementing GST since its inception in my own company Jani Plastics (www.janiplastics.com).
+description: A compilation of my research work based on books, workshops attended, interviews taken with my resources in Australia as well as India & my own practical experience of implementing GST since its inception in my own company Jani Plastics (www.janiplastics.com). A truly joint effort of Anup Jani (CEO www.janiplastics.co.in, Mumbai) & my friend who is financial professional in Sydney, Australia, that explores GST System of Australia & India to come up with business related artifacts useful to the community as well as two great nations. More the people get acquainted, more successful the Govt. becomes in bringing about GST to the economy of the nation for the greater good.
 image: channels4_banner.jpg
-language: en-us
-category: Technology
+language: en-au
+category: Business
 format: audio/mpeg
 item:
-  - title: EP01-What's Happening in 2023
-    description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
-    published: Thu, 12 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT01.mp3
-    duration: 00:00:36
-    length: 576,324
+  - title: History-of-Australian-GST
+    description: Indian GST model is adopted from Canadian Dual GST System which is unlike that of Australia. Tax rates are different. Indian model also has composition Scheme for ease of doing small businesses.  Listen to podcast to learn more differences w.r.t. ISD, E-Way & more.
+    published: Dec 1, 2022
+    file: 1-History-of-Australian-GST.mp4
+    duration: 00:04:09
