@@ -1,2 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>GST Blue Saffron</title><format>audio/mpeg</format><author>Anup Jani</author><description>A compilation of my research work based on books, workshops attended, interviews taken with my resources in Australia as well as India &amp; my own practical experience of implementing GST since its inception in my own company Jani Plastics (www.janiplastics.com). A truly joint effort of Anup Jani (CEO www.janiplastics.co.in, Mumbai) &amp; my friend who is financial professional in Sydney, Australia, that explores GST System of Australia &amp; India to come up with business related artifacts useful to the community as well as two great nations. More the people get acquainted, more successful the Govt. becomes in bringing about GST to the economy of the nation for the greater good.</description><image>channels4_banner.jpg</image></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GST Blue Saffron</title>
+    <link>https://www.janiplastics.com</link>
+    <language>en-US</language>
+    <description>
+      A compilation of my research work based on books, workshops attended,
+      interviews taken with my resources in Australia as well as India &amp;
+      my own practical experience of implementing GST since its inception
+      in my own company Jani Plastics (www.janiplastics.com). A truly joint
+      effort of Anup Jani (CEO www.janiplastics.co.in, Mumbai) &amp; my friend
+      who is financial professional in Sydney, Australia, that explores GST
+      System of Australia &amp; India to come up with business related artifacts
+      useful to the community as well as two great nations.
+    </description>
+
+    <image>
+      <url>https://www.janiplastics.com/channels4_banner.jpg</url>
+      <title>GST Blue Saffron</title>
+      <link>https://www.janiplastics.com</link>
+    </image>
+
+    <item>
+      <title>Episode 1: Introduction</title>
+      <description>Welcome to GST Blue Saffron podcast.</description>
+      <enclosure url="https://www.janiplastics.com/audio/episode1.mp3"
+                 length="12345678"
+                 type="audio/mpeg"/>
+      <guid>https://www.janiplastics.com/audio/episode1.mp3</guid>
+      <pubDate>Sun, 28 Sep 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
