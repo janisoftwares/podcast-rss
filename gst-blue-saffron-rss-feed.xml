@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>GST Blue Saffron</title>
     <link>https://www.janiplastics.com</link>
@@ -11,8 +11,12 @@
       in my own company Jani Plastics (www.janiplastics.com).
     </description>
 
-    <managingEditor>janisoftwares@gmail.com</managingEditor>
-    <webMaster>janisoftwares@gmail.com</webMaster>
+    <itunes:owner>
+      <itunes:name>Anup Jani</itunes:name>
+      <itunes:email>janisoftwares@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:author>Anup Jani</itunes:author>
 
     <image>
       <url>https://www.janiplastics.com/channels4_banner.jpg</url>
@@ -26,9 +30,4 @@
       <enclosure url="https://www.janiplastics.com/audio/episode1.mp3"
                  length="12345678"
                  type="audio/mpeg"/>
-      <guid>https://www.janiplastics.com/audio/episode1.mp3</guid>
-      <pubDate>Sun, 28 Sep 2025 10:00:00 GMT</pubDate>
-    </item>
-
-  </channel>
-</rss>
+      <guid>https:/
